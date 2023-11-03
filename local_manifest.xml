@@ -13,7 +13,7 @@
 	<!-- Device side things -->
  	<project path="device/xiaomi/vince" name="android_device_xiaomi_vince" remote="TheMiniOnii221" revision="Evolution-X-tiramisu" />
  	<project path="vendor/xiaomi/vince" name="android_vendor_xiaomi_vince" remote="TheMiniOnii221" revision="Evolution-X-tiramisu" />
- 	<project path="kernel/xiaomi/vince" name="android_kernel_xiaomi_vince" remote="TheMiniOnii221" revision="ksu" />
+ 	<project path="kernel/xiaomi/vince" name="kernel_for_vince" remote="TheMiniOnii221" revision="praise-and-crowd" />
 	
 	<!-- Sepolicy 
  	<remove-project name="device_qcom_sepolicy-legacy-um" />
